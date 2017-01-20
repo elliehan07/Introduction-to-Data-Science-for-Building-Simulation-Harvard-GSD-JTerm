@@ -1,0 +1,213 @@
+#theImg{
+
+    position: relative;
+    width: 100vw;
+    left: calc(-50vw + 50%);
+    /*max-width: 100%*/
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+h4{
+    font-weight: 800 !important;
+}
+
+i{
+    font-weight: 200 !important;
+    color: gray;
+    font-size: 16px;
+
+}
+
+
+
+#mapdivCraigslist{
+
+
+
+}
+
+#selection_01{
+    width: 400px;
+    float: right;
+    z-index: 10000;
+    position: absolute;
+    left: 62px;
+}
+#selection_02{
+    width: 400px;
+    float: right;
+    z-index: 10000;
+    position: absolute;
+    left: 5px;
+}
+#theBtn{
+    float: initial;
+    position: absolute;
+    width: 60px;
+    left: 0px;
+    top: 0px;
+    z-index: 10000;
+
+}
+.cirGooglePlace:hover{
+	fill: black;
+	fill-opacity: 1.0;
+
+
+}
+
+
+#maplog{
+    float: initial;
+    position: absolute;
+    width: 100px;
+    height:40px;
+    left: 1000px;
+    top: 130px;
+    z-index: 10000;
+    background: white;
+    color:purple;
+
+}
+#maplogCrime{
+    float: initial;
+    position: absolute;
+    width: 100px;
+    height:40px;
+    left: 1000px;
+    top: 130px;
+    z-index: 10000;
+    background: white;
+    color:purple;
+
+}
+#maplogHosing{
+    float: initial;
+    position: absolute;
+    width: 180px;
+    height:40px;
+    left: 930px;
+    top: 100px;
+    z-index: 10000;
+    background: white;
+    color:purple;
+
+}
+#maplogRent{
+    float: initial;
+    position: absolute;
+    width: 180px;
+    height:40px;
+    left: 930px;
+    top: 100px;
+    z-index: 10000;
+    background: white;
+    color:purple;
+
+}
+
+
+
+#dataContent_A{
+    color:purple;
+    font-size: 15px;
+}
+
+
+#theContent{
+    font-size: 13px;
+    color: darkgray;
+line-height: 70%;
+
+}
+
+#highlightColor{
+    color: purple;
+    font-weight: bold;
+}
+
+#GoogleStreetInfo{
+
+height: 300px;
+width: :800px !important;
+background: rgb(245,245,245);
+}
+
+#thePieChart{
+height: 300px;
+width: :400px;
+background: rgb(245,245,245);
+/*float: left;*/
+/*position: relative;*/
+
+}
+.streetLog{
+    padding-top: 50px;
+    padding-left: 150px;
+    float: left;
+    height: 300px;
+
+/*   // float: initial;
+   // position: absolute;
+    width: 450px;
+    height:90px;
+    left: 10px;
+    top: 540px;
+    z-index: 10000;
+    background: lightgray;*/
+    color:purple;
+
+
+}
+
+pre{
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+  margin-bottom: 10px;
+  overflow: auto;
+  width: auto;
+  padding: 5px;
+  background-color: #eee;
+  width: 650px!ie7;
+  padding-bottom: 20px!ie7;
+  max-height: 600px;
+}
+
+#tap1{
+    margin:0px 50px;
+    float:left;
+    list-style:none;
+
+}
+
+
+.pltVis{
+
+    /*height:1000px !important;*/
+}
+.pltCircleVis{
+
+    height: 500px !important;
+}
+
+#print{
+    font-size: small;
+    color: grey;
+}
+
+#mainText{
+
+
+}
+
+.hightFix2{
+height: 500px !important;
+}
+.hightFix3{
+height: 800px !important;
+}
+.hightFix4{
+height: 500px !important;
+}

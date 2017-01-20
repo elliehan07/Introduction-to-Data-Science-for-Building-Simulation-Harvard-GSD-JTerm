@@ -1,0 +1,49 @@
+
+
+#mapdiv
+{
+	padding: 0px;
+	margin: 0px;
+	height: 800px;
+
+}
+
+#map 
+{ 
+	padding: 0px;
+	margin: 0px;
+	height: 600px;
+
+}
+
+
+
+.mapboxgl-canvas-container mapboxgl-interactive
+
+.mapboxgl-canvas
+{
+  /*z-index: -10;*/
+  /*width: inherit;*/
+  /*height: inherit;*/
+  height: 800px;
+}
+
+
+.cir
+{
+opacity: 0.5;
+}
+
+
+.cir:hover{
+
+    r:25;
+    fill: white;
+    opacity: 0.8;
+    pointer-events: auto;
+    cursor: pointer;
+    -webkit-transition: top 0.1s,left 0.1s, width 1s, height 1s, background-color 1s, -webkit-transform 1s, r1s;
+    transition: top 0.1s,left 0.1s, width 1s, height 1s, background-color 1s, fill 0.5s, opacity 1s, transform 1s , r 0.5s;
+    
+}
+
