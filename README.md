@@ -7,8 +7,6 @@
 
 - Instructor: Jung Min Han, MDes, Harvard GSD
  
-- Teaching Assistant: NJ Namju Lee, nj.namju@gmail.com, MDes, Harvard GSD
- 
 - Date: Jan 9-12 , 2017 
  
 - Time: 1:00 - 3:00 p.m.
